@@ -1,0 +1,5 @@
+C:\Users\Admin\AndroidStudioProjects\MyFirstGame\app\build\intermediates\classes\debug
+C:\Users\Admin\AndroidStudioProjects\MyFirstGame\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2e09fea196949e7bcfc7620885a9bf7edead5b1b.jar
+C:\Users\Admin\AndroidStudioProjects\MyFirstGame\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-36bcde35ec667d3ec621f41c52818a0f9662208a.jar
+C:\Users\Admin\AndroidStudioProjects\MyFirstGame\app\build\intermediates\pre-dexed\debug\classes-1c3e085ca6fbd65b7b9af9727d028dca9e64df82.jar
+C:\Users\Admin\AndroidStudioProjects\MyFirstGame\app\build\intermediates\pre-dexed\debug\classes-0f5d5eec019d53b00fa78d4edd20aeca56b861ae.jar
